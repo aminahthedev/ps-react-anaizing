@@ -1,8 +1,8 @@
-var fs = require("fs");
-var path = require("path");
-var chalk = require("chalk");
-var parse = require("react-docgen").parse;
-var chokidar = require("chokidar");
+var fs = require("fs"); // for file system reading
+var path = require("path"); // for working with paths
+var chalk = require("chalk"); //color command line output
+var parse = require("react-docgen").parse; // the lib that will look at our components and pull the metadata out of their code
+var chokidar = require("chokidar"); // allows us to watch files and run a function in a cross platform way
 
 var paths = {
   examples: path.join(__dirname, "../src", "docs", "examples"),
