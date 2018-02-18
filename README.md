@@ -8,3 +8,6 @@ Building my first component library
 ...work in progress
 
 ![screenshot of component lib index](https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/28059190_10159915900885117_4642474922145937338_n.jpg?oh=ef354888f8ad6590feeaa9f47494a26c&oe=5B05AA3D)
+
+
+![screenshot](https://scontent-syd2-1.xx.fbcdn.net/v/t1.0-9/27972313_10159916128315117_4674826107416913823_n.jpg?oh=f7afbfbd6891d91ae1963177b5b06517&oe=5B25E957)
